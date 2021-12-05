@@ -1,0 +1,2 @@
+# StatMathinspire
+basic python programs
